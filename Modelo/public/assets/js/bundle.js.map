@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":"AAAAA,MAAM","sources":["webpack://modelo/./src/index.js"],"sourcesContent":["alert(\"Vamo Wallace pra cima, você !!!!!\");\r\n"],"names":["alert"],"sourceRoot":""}
