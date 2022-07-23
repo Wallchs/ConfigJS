@@ -4,4 +4,4 @@ used with css and js files.
 
 For installation use the command:
 
-npm i 
+<code>npm i </code>
